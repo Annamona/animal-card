@@ -1,0 +1,29 @@
+body {
+	font-family:sans-serif, verdana;
+	width: 324px;
+}
+
+img{
+	width:300px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.part {
+	font-style:italic;
+}
+
+.labels{
+	font-weight: bold;
+}
+
+.bordered {
+	border-width: 1px;
+	border-style: solid;
+}
+
+.info{
+	padding: 10px;
+}
